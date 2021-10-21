@@ -484,3 +484,4 @@
 2021-10-21 13:56:20,847 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2021-10-21 13:56:27,299 [Worker-1: Launching hellomyjenkins] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/amir/Jenkins/hellomyjenkins
 2021-10-21 13:56:27,299 [Worker-1: Launching hellomyjenkins] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2021-10-21 14:00:44,889 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
